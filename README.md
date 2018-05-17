@@ -1,2 +1,2 @@
 # invie-github
-Curso Git de Platzi
+Las guitarras invisibles - Curso Git de Platzi 
